@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.markdown("# Page 2 ❄️")
-st.sidebar.markdown("# Page 2 ❄️")
+st.markdown("# Take a picture ❄️")
+st.sidebar.markdown("# Take a picture ❄️")
 
 picture = st.camera_input("Take a picture")
 
