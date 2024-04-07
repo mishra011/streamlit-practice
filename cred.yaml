@@ -1,0 +1,16 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    deepak:
+      email: dm@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: DM
+      password: $2b$12$fdHnJtgg5oq6DEL85PlTwuRMDv57CFSy7irl9V.z4EhUfxJIMJ6sK
+pre-authorized:
+  emails:
+  - abc@gmail.com
+  - dm@gmail.com
